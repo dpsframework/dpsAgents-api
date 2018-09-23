@@ -1,1 +1,76 @@
+# GitHub Minimal Theme Parameters...
+
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
+
+
+title: 
+  en: "dpsAgents API and Manuals"
+  es: "dpsAgents API and Manuals"
+
+trademark: ""
+
+subtitle:
+  en: "dpsAgents Javadoc-API and Third-party manuals"
+  es: "dpsAgents Javadoc-API and Third-party manuals"
+
+index:
+  en: index.html
+  es: index.html
+
+lang: en
+
+author: 'Francisco J. Aguayo'
+email: 'francisco -dot- aguayo -At- ieee.org'
+
+description:
+  en: dpsFramework offers a friendly development environment where to study, develop, deploy and debug more easily the complex Knowledge-based Agents and their behaviour at runtime.
+  es: dpsFramework ofrece un entorno de desarrllo amigable donde estudiar, desarrollary, desplegar y depurar más facilmente  Agentes complejos en tiempo de ejecución.  
+  
+
+
+feed:
+  en: /feed.xml
+  es: /feed_es.xml
+
+baseurl: ""
+url: "https://dpsframework.com" # the base hostname & protocol for your site
+
+github:
+  owner_url: "https://pacoaguayo.github.io/"
+  repository_url: "https://github.com/dpsframework"
+  owner_name: "Francisco J. Aguayo"
+  project_tagline: "1.7"
+  name: github
+  is_project_page: true
+  repository_name: dpsframework
+
+
+github_username:  pacoaguayo
+rss: rss
+linkedin: linkedin
+ieeeMember: IEEE Power & Energy Systems Society Member (PES)
+linkedin_username: paco-aguayo
+
+
+show_excerpts: true # set to true to show excerpts on the homepage
+minima:
+  date_format: "%b %-d, %Y"
+
+
+# Etiquetas para ambos idiomas
+i18n:
+  en:
+    categories: "Main categories"
+    featured:   "Featured drafts"
+    download:   "Project downloads"
+    essay:      "API docs. & Developer Guides"
+    acknowledgment: "Tech. Acknowledgments" 
+  es:
+    categories: "Categorías principales"
+    featured:   "Borradores destacados"
+    download:   "Descargas"
+    essay:      "API docs. y Manuales"
+    acknowledgment: "Agradecimientos Tecnológicos"
+
