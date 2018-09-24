@@ -22,7 +22,7 @@ lang: en
 
 ## Third-party Developer Manuals
 
-- [BeanShell 2.0b4 Manual v1.3](doc/bsh/manual/bshmanual.html)
+- [BeanShell 2.0b4 Manual v1.3](/doc/bsh/manual/bshmanual.html)
 - [RSyntaxTextArea Text Editor](https://github.com/bobbylight/RSyntaxTextArea/)
 - [HyperSQL v2.3.4 Manual](doc/hsql/hsqlug.html)
 - [CLIPS on-line Manual 6.30](doc/engines/clips/CLIPSLanguageHelp.html)
