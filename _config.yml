@@ -35,7 +35,7 @@ feed:
   es: /feed_es.xml
 
 baseurl: ""
-url: "https://dpsframework.com/dpsAgents-api" # the base hostname & protocol for your site
+url: "https://dpsframework.org/dpsAgents-api" # the base hostname & protocol for your site
 
 github:
   owner_url: "https://pacoaguayo.github.io/"

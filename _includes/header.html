@@ -23,7 +23,7 @@
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}<a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }} </a>{%- endif -%}
           {%- endfor -%}
-          {%- include language-selector.html -%}&nbsp;<a href="https://dpsframework.com/"><img src="{{ site.baseurl }}/assets/images/internet.png"></a>
+          {%- include language-selector.html -%}&nbsp;<a href="https://dpsframework.org/"><img src="{{ site.baseurl }}/assets/images/internet.png"></a>
         </div>
       </nav>
     {% endif %}
