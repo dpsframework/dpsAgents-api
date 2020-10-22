@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Document Repository
 
-You can use the [editor on GitHub](https://github.com/pacoaguayo/pet-fce-cae/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## dpsAgents-API (javadoc format) 
 
-### Markdown
+- [dpsAgents 1.7 API](doc/dps/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Third-party Developer Manuals
 
-# Header 1
-## Header 2
-### Header 3
+- [BeanShell 2.0b4 Manual v1.3](https://dpsframework.org/dpsAgents-api/doc/bsh/manual/bshmanual.html)
+- [RSyntaxTextArea Text Editor](https://github.com/bobbylight/RSyntaxTextArea/)
+- [HyperSQL v2.3.4 Manual](https://dpsframework.org/dpsAgents-api/doc/hsql/hsqlug.html)
+- [CLIPS on-line Manual 6.30](https://dpsframework.org/dpsAgents-api/doc/engines/clips/CLIPSLanguageHelp.html)
+- [CLIPSJNI 0.5 API](https://dpsframework.org/dpsAgents-api/doc/engines/clips/clipsjni/index.html)
+- [Jess Manual 8.0a1](https://dpsframework.org/dpsAgents-api/doc/engines/jess/docs/index.html)
+- [Jess Engine API](https://dpsframework.org/dpsAgents-api/doc/engines/jess/docs/api.html)
+- [JPL.pl Prolog API](https://dpsframework.org/dpsAgents-api/doc/engines/prolog-swi/index.html)
+    
 
-- Bulleted
-- List
+##  _dpsFramework_ Web site 
 
-1. Numbered
-2. List
+>  **_dpsFramework_** is a very low weight _integrated development environment_ (IDE) <br> that is executed on JADE _agents_.
 
-**Bold** and _Italic_ and `Code` text
+- Come back to [_https://dpsFramework.org_](https://dpsframework.org/)  web site.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pacoaguayo/pet-fce-cae/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
