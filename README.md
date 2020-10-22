@@ -3,7 +3,7 @@
 
 ## dpsAgents-API (javadoc format) 
 
-- [dpsAgents 1.7 API](doc/dps/)
+- [dpsAgents 1.7 API](https://dpsframework.org/dpsAgents-api/doc/dps/)
 
 
 ## Third-party Developer Manuals
